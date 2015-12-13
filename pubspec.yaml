@@ -1,0 +1,8 @@
+name: solar
+version: 1.0.1
+description: The Sunflower sample from DartPad
+dependencies:
+  browser: any
+dev_dependencies:
+  runtime:
+    path: ../../../web_runtime
